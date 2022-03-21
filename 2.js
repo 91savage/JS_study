@@ -39,6 +39,24 @@ function foo () {
   bar();
 }
 
-foo();
 
 
+var x=5
+var y=7
+
+console.log(x+=y);
+
+var str = "my name is ";
+
+
+
+console.log(str+='kim');
+
+var x=9;
+var result = x % 2 ? '홀' : '짝';
+console.log(result);
+
+function sum(x,y) {
+  return x * y;
+}
+console.log(sum(100, 2));
