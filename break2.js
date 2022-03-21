@@ -7,7 +7,7 @@ for(i=0; i<string.length; i++){
         break;
     }
 }
-
+s
 console.log(index);
 
 console.log(string.indexOf('l'));
